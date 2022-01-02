@@ -3,6 +3,6 @@
 ### I'm Ecodemo.
 - [技术客栈](http://ecodemo.top/) 站长.
 - [技术客栈（官方群）](https://jq.qq.com/?_wv=1027&k=oJF7q6Ie)
-- 联系邮箱：ecodemo@126.com
+- 联系邮箱：[ecodemo@126.com](mailto:ecodemo@126.com)
 
 <img src="https://github-profile-trophy.vercel.app/?username=ecodemo&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
