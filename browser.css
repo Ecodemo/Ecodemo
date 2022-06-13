@@ -1,0 +1,8 @@
+@font-face { 
+  font-family: '如何引起你的注意';
+  src: url('如何引起你的注意.ttf'); 
+}
+
+html, body {
+  font-family: '如何引起你的注意' !important;
+}
