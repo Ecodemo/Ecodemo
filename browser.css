@@ -1,8 +1,8 @@
 @font-face { 
-  font-family: '如何引起你的注意';
-  src: url('如何引起你的注意.ttf'); 
+  font-family: 'font';
+  src: url('站酷快乐体.ttf'); 
 }
 
 html, body {
-  font-family: '如何引起你的注意' !important;
+  font-family: 'font' !important;
 }
