@@ -3,6 +3,6 @@
   src: url('站酷快乐体.ttf'); 
 }
 
-html, body {
+* {
   font-family: 'font' !important;
 }
