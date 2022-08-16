@@ -1,6 +1,6 @@
 ### Hello 👋
 
-<img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=moieo&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" width="350px" src="https://github-readme-stats.vercel.app/api?username=moieo&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 😄I'm glad you clicked on my home page.
 - 🔭 I'm Moieo.
