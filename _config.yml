@@ -1,9 +1,9 @@
 # Setup
 name: 开源镜像索引
-description: Moieo 开源镜像索引
-tagline: Moieo 开源镜像索引
+description: Moieo 开源镜像索引站
+tagline: Moieo 开源镜像索引站
 # baseurl: ""
-locale: "cn"
+# locale: "cn"
 
 # Gems
 gems:
