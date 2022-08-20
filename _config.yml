@@ -1,0 +1,16 @@
+# Setup
+name: 开源镜像索引
+description: Moieo 开源镜像索引
+tagline: Moieo 开源镜像索引
+# baseurl: ""
+locale: "cn"
+
+# Gems
+gems:
+  - jekyll-paginate
+
+github:
+  is_project_page: false
+
+#Others
+markdown: kramdown
