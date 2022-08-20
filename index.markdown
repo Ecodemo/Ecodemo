@@ -135,19 +135,20 @@ registry = "https://mirrors.ustc.edu.cn/crates.io-index"
 | 名称 | 地址 |
 | --- | --- |
 | 清华大学 | https://mirrors.tuna.tsinghua.edu.cn/rubygems/ |
-| 北京外国语大学 | https://mirrors.bfsu.edu.cn/rubygems/
+| 北京外国语大学 | https://mirrors.bfsu.edu.cn/rubygems/ |
+| 中国科学技术大学 | https://mirrors.ustc.edu.cn/rubygems/ |
 
 ### Gem
 
 ```bash
-# 添加 TUNA 源并移除默认源
-gem sources --add https://mirrors.tuna.tsinghua.edu.cn/rubygems/ --remove https://rubygems.org/
+# 添加 中国科学技术大学 镜像源并移除默认源
+gem sources --add https://mirrors.ustc.edu.cn/rubygems/ --remove https://rubygems.org/
 # 列出已有源
 gem sources -l
-# 应该只有 TUNA 一个
+# 应该只有 USTC 一个
 ```
 
 ### Bundle
 ```bash
-bundle config mirror.https://rubygems.org https://mirrors.tuna.tsinghua.edu.cn/rubygems
+bundle config mirror.https://rubygems.org https://mirrors.ustc.edu.cn/rubygems/
 ```
