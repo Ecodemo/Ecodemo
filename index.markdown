@@ -50,6 +50,12 @@ title: 开源镜像索引
 | 公云 | <https://mirrors.pubyun.com/> |
 | 华为 | <https://mirrors.huaweicloud.com/> |
 
+## 组织镜像
+
+| 名称 | 地址 |
+| --- | --- |
+| OpenTUNA | <https://opentuna.cn/> |
+
 ## Docker Hub 镜像
 
 | 名称 | 地址 |
@@ -90,6 +96,7 @@ pnpm config set registry https://npmreg.proxy.ustclug.org/
 | 豆瓣 | <https://pypi.douban.com/simple/> |
 | 阿里 | <https://mirrors.aliyun.com/pypi/simple/> |
 | 网易 | <https://mirrors.163.com/pypi/simple/> |
+| OpenTUNA | <https://opentuna.cn/pypi/web/simple> |
 
 ### 临时使用
 
@@ -136,6 +143,7 @@ registry = "https://mirrors.ustc.edu.cn/crates.io-index"
 | 清华大学 | <https://mirrors.tuna.tsinghua.edu.cn/rubygems/> |
 | 北京外国语大学 | <https://mirrors.bfsu.edu.cn/rubygems/> |
 | 中国科学技术大学 | <https://mirrors.ustc.edu.cn/rubygems/> |
+| OpenTUNA | <https://opentuna.cn/rubygems/> |
 
 ### Gem
 
