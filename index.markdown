@@ -178,3 +178,6 @@ bundle config mirror.https://rubygems.org https://mirrors.ustc.edu.cn/rubygems/
 配置请参考 TUNA 手动修改方法
 地址：<https://mirrors.tuna.tsinghua.edu.cn/help/termux/>
 
+
+## 下次如何找到我们？
+Google 或 Bing 上搜索 “开源镜像索引”
