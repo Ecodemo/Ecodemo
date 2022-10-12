@@ -174,6 +174,9 @@ bundle config mirror.https://rubygems.org https://mirrors.ustc.edu.cn/rubygems/
 | 阿里 | <https://mirrors.aliyun.com/termux/termux-packages-24> |
 | 腾讯 | <http://mirrors.cloud.tencent.com/termux/apt/termux-main> |
 
+### 更多 Termux 镜像
+<https://github.com/termux/termux-packages/wiki/mirrors>
+
 ### TUNA 帮助文档
 配置请参考 TUNA 手动修改方法
 地址：<https://mirrors.tuna.tsinghua.edu.cn/help/termux/>
