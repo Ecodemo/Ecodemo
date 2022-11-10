@@ -1,12 +1,15 @@
 ### Hello👋 I'm Moieo.
 
 Contact me
+
 | --- | --- |
-E-Mail | moe@moieo.cn
-Weibo | https://weibo.com/moieo
-Zhihu | https://www.zhihu.com/people/moieo
-Telegram | https://t.me/moieox
+
+| E-Mail | moe@moieo.cn |
 | --- | --- |
+| Weibo | https://weibo.com/moieo |
+| Zhihu | https://www.zhihu.com/people/moieo |
+| Telegram | https://t.me/moieox |
+
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moieo&theme=vue" />
 
