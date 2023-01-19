@@ -8,6 +8,7 @@ I am Moieo from China.
 | Weibo | [weibo.com/moieo](https://weibo.com/moieo) |
 | Zhihu | [www.zhihu.com/people/moieo](https://www.zhihu.com/people/moieo) |
 | Telegram | [t.me/moieox](https:/t.me/moieox) |
+| Gitee | [gitee.com/moieo](https://gitee.com/moieo) |
 | My blog | [blog.moieo.top](https://blog.moieo.top) |
 
 
