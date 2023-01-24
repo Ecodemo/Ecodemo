@@ -1,4 +1,4 @@
 module.exports = {
-  title: "开源镜像索引",
+  title: "Moieo",
   description: "Moieo 开源镜像索引站",
 };
