@@ -24,14 +24,11 @@ jobs:
         with:
           ref: mirrors
       - name: Build
-        run: |
-          docker run \
-          -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-          jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
+        run: npm install && npm run docs:build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: _site
+          path: docs/.vuepress/dist/
   deploy:
     environment:
       name: github-pages
