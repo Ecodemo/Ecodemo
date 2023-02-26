@@ -24,6 +24,8 @@ jobs:
         with:
           ref: mirrors
       - name: Build
+        env:
+          NODE_OPTIONS: --openssl-legacy-provider
         run: npm install && npm run docs:build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
