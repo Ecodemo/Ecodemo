@@ -1,5 +1,5 @@
 ---
-title: 开源镜像索引
+title: 综合镜像索引
 lang: zh-CN
 sidebar: auto
 meta:
