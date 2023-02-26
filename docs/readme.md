@@ -3,6 +3,7 @@ home: true
 title: 开源镜像索引
 lang: zh-CN
 sidebar: auto
+permalink: /
 heroImage: https://blog.moieo.top/favicon.ico
 actionText: 开始使用 →
 actionLink: /home/

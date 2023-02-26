@@ -2,6 +2,7 @@
 title: 综合镜像索引
 lang: zh-CN
 sidebar: auto
+permalink: /docs
 meta:
   - name: description
     content: Moieo 开源镜像索引站, 解决找镜像困难
