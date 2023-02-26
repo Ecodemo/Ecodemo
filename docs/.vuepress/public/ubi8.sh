@@ -1,4 +1,4 @@
-cat << EOF > /etc/yum.repos.d/ubi.repo 
+cat << EOF > /etc/yum.repos.d/ubi.repo
 [ubi-8-baseos-rpms]
 name = Red Hat Universal Base Image 8 (RPMs) - BaseOS
 baseurl = https://cdn-ubi.redhat.com/content/public/ubi/dist/ubi8/8/$basearch/baseos/os
