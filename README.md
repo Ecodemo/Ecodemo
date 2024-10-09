@@ -4,12 +4,11 @@ I am Moieo from China.
 ### Contact me
 | Website | URL |
 | --- | --- |
-| E-Mail | [moe@moieo.cn](mailto:moe@moieo.cn) |
-| Weibo | [weibo.com/moieo](https://weibo.com/moieo) |
+| E-Mail | [moe@moieo.cn](mailto:moe@moieo.net) |
 | Zhihu | [www.zhihu.com/people/moieo](https://www.zhihu.com/people/moieo) |
 | Telegram | [t.me/moieox](https:/t.me/moieox) |
 | Gitee | [gitee.com/moieo](https://gitee.com/moieo) |
-| My blog | [blog.moieo.top](https://blog.moieo.top) |
+| My blog | [blog.moieo.top](https://blog.moieo.net) |
 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moieo&theme=vue" />
