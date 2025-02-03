@@ -5,8 +5,6 @@ I am Moieo from China.
 | Website | URL |
 | --- | --- |
 | E-Mail | [moe@moieo.net](mailto:moe@moieo.net) |
-| Zhihu | [www.zhihu.com/people/moieo](https://www.zhihu.com/people/moieo) |
-| Telegram | [t.me/moieox](https:/t.me/moieox) |
 | Gitee | [gitee.com/moieo](https://gitee.com/moieo) |
 | Home page | [moieo.net](https://moieo.net) |
 | My blog | [blog.moieo.net](https://blog.moieo.net) |
